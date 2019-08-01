@@ -1,14 +1,3 @@
-// needs to be a class, that returns 2 methods
-// outter function needs to be a class
-// prototype way or ..? need to use new
-// after js zombies
-
-// loop 1 through n (10 or 100)
-// square each n
-
-// loop 1 through n (10 or 100)
-// add all n, then square sum
-
 exports.SumOfASquare = SumOfASquare;
 
 function SumOfASquare(naturalNum) {
